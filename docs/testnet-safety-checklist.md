@@ -34,6 +34,14 @@ Testnets feel risk-free because the tokens are "fake" — but most testnet scams
 - When a real airdrop or claim opens, move rewards to your main cold wallet promptly — exchanges and farming wallets are not vaults.
 - Screenshot and save your important wallet addresses and transaction hashes; claims support often asks for them.
 
+## 6. If an exchange you use gets hacked
+
+- Don't take a "contained" or "under control" statement at face value. In November 2026, Mercado Bitcoin said its breach was contained — on-chain data later showed the attacker kept draining customer deposit addresses for about four hours afterwards.
+- Watch the money, not the statement: check official status updates and independent on-chain trackers before you assume your funds are safe.
+- Exchanges usually reopen in phases (view-only first, then withdrawals). Wait for the official reopening notice — don't rush funds through unofficial links.
+- When withdrawals reopen, move long-term holdings to self-custody promptly. An exchange account is not a vault.
+- Beware fake "reimbursement" or "claim" pages that appear after a big hack. Only use links from the exchange's official account or status page.
+
 ## Red flags — walk away immediately
 
 - 🚩 "Send 0.1 ETH to unlock your testnet reward"
@@ -44,4 +52,4 @@ Testnets feel risk-free because the tokens are "fake" — but most testnet scams
 
 ---
 
-*Part of the [Crypto Airdrop Guide](https://github.com/ClintonCrypto/crypto-airdrop-guide) by Clinton | Crypto Professor — daily airdrop & testnet research on X [@Airdr0p360](https://x.com/Airdr0p360) and Telegram [Best Crypto Looter](https://t.me/Bestcryptolooter).*
+*Part of the [Crypto Airdrop Guide](https://github.com/ClintonCrypto/crypto-airdrop-guide) by ClintonCrypto — free, evergreen educational content. No financial advice.*
